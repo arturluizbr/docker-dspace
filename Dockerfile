@@ -1,3 +1,3 @@
 FROM alpine
-LABEL maintainer.name Artur Oliveira
-      maintainer.email artur@arturluiz.com.br
+LABEL maintainer.name="Artur Oliveira" \
+      maintainer.email=artur@arturluiz.com.br
